@@ -192,7 +192,8 @@ Node* erase_k(Node* root, ll k) {
 	return merge(p.x, p2.y);
 }
 
-//not accepted
+// have bugs
+
 int main() {
 	#ifdef ON_PC
 		freopen("a.in", "r", stdin), freopen("a.out", "w", stdout);

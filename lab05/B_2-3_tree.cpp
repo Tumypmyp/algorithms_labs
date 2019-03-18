@@ -12,6 +12,7 @@ typedef long long ll;
 const int N = 5e3, BIG = 1e9 + 7, MOD = 1e9;
 
 
+// code is not complited 
 struct Node{
 	int val;
 	vector<int> keys;
