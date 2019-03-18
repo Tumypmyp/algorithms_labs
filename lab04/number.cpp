@@ -13,7 +13,7 @@ typedef long long ll;
 const int N = 1103, N2 = N / 9, BIG = 2e9 + 7, MOD = 999999937;
 
 
-
+// not accepted
 
 int main() {
 	#ifdef ON_PC
